@@ -1,0 +1,12 @@
+Backend: Fallback NB-GLM approximation
+Input OTUs: 120
+Filtered OTUs: 119
+Samples: 14
+Comparison: CON Day 28 vs CON Day 0
+Significant up: 14
+Significant down: 14
+Selected differential OTUs: 28
+
+Interpretation:
+Positive log2FoldChange = higher in CON Day 28; negative log2FoldChange = higher in CON Day 0.
+For continuity with the supplied R plot, 'enriched' denotes negative LFC and 'depleted' denotes positive LFC.

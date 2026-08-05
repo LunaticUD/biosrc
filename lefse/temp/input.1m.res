@@ -1,0 +1,26 @@
+k__Bacteria.p__Firmicutes	5.691172689374821	Old	4.965296027035436	3.5712849641635144e-05
+k__Bacteria.p__Bacteroidetes	5.451188397035876	Young	5.066284249891583	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus	5.099934893743478	Old	4.806736751534037	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Eubacteriales.f__Eubacteriaceae.g__UCG_005	4.929688009937281	Old	4.649636309666892	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__Christensenellaceae_R_7_group	4.792026518111678	Old	4.571400982772257	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Butyrivibrio	4.910937615890586	Adult	4.588662842983079	3.5712849641635144e-05
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella	5.3453040571807575	Young	4.984463522726129	3.5712849641635144e-05
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__RC9_gut_group	4.562675291993957	Young	4.475895242716737	5.6430543196847874e-05
+k__Bacteria.p__Fibrobacteres.c__Fibrobacteria.o__Fibrobacterales.f__Fibrobacteraceae.g__Fibrobacter	4.660643404098966	Young	4.379590825569839	7.466493403014503e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Succiniclasticum	4.69357546783188	Old	4.720764419646384	3.5712849641635144e-05
+k__Bacteria	5.999999999999999			-
+k__Bacteria.p__Firmicutes.c__Clostridia	5.56329599969287	Old	5.171911688107577	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales	5.448383758225431	Old	5.051579512495524	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae	5.24367399074304	Old	4.899777555100479	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Eubacteriales	4.929688009937281	Old	4.649636309666893	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Eubacteriales.f__Eubacteriaceae	4.929688009937281	Old	4.649636309666893	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae	4.792026518111678	Old	4.571400982772257	3.5712849641635144e-05
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae	4.910937615890586	Adult	4.588662842983079	3.5712849641635144e-05
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia	5.411614021186705	Young	5.030439530234287	3.5712849641635144e-05
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales	5.411614021186705	Young	5.030439530234287	3.5712849641635144e-05
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae	5.3453040571807575	Young	4.984463522726129	3.5712849641635144e-05
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae	4.562675291993957	Young	4.475895242716737	5.6430543196847874e-05
+k__Bacteria.p__Fibrobacteres	4.660643404098966	Young	4.379590825569839	7.466493403014503e-05
+k__Bacteria.p__Fibrobacteres.c__Fibrobacteria	4.660643404098966	Young	4.379590825569839	7.466493403014503e-05
+k__Bacteria.p__Fibrobacteres.c__Fibrobacteria.o__Fibrobacterales	4.660643404098966	Young	4.379590825569839	7.466493403014503e-05
+k__Bacteria.p__Fibrobacteres.c__Fibrobacteria.o__Fibrobacterales.f__Fibrobacteraceae	4.660643404098966	Young	4.379590825569839	7.466493403014503e-05
