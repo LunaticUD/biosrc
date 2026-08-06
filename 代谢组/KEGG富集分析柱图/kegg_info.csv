@@ -1,0 +1,52 @@
+ID,Pathway.Identifier,Pathway,big.annotion,small.annotion
+1100,map01100,Metabolic pathways,Metabolism,Global and overview maps
+1110,map01110,Biosynthesis of secondary metabolites,Metabolism,Global and overview maps
+1120,map01120,Microbial metabolism in diverse environments,Metabolism,Global and overview maps
+1200,map01200,Carbon metabolism,Metabolism,Global and overview maps
+1210,map01210,2-Oxocarboxylic acid metabolism,Metabolism,Global and overview maps
+1212,map01212,Fatty acid metabolism,Metabolism,Lipid metabolism
+1230,map01230,Biosynthesis of amino acids,Metabolism,Global and overview maps
+2010,map02010,ABC transporters,Environmental Information Processing,Membrane transport
+240,map00240,Pyrimidine metabolism,Metabolism,Nucleotide metabolism
+230,map00230,Purine metabolism,Metabolism,Nucleotide metabolism
+250,map00250,Alanine aspartate and glutamate metabolism,Metabolism,Amino acid metabolism
+260,map00260,Glycine serine and threonine metabolism,Metabolism,Amino acid metabolism
+270,map00270,Cysteine and methionine metabolism,Metabolism,Amino acid metabolism
+300,map00300,Lysine biosynthesis,Metabolism,Amino acid metabolism
+320,map00320,Valine leucine and isoleucine degradation,Metabolism,Amino acid metabolism
+330,map00330,Arginine and proline metabolism,Metabolism,Amino acid metabolism
+340,map00340,Histidine metabolism,Metabolism,Amino acid metabolism
+350,map00350,Tyrosine metabolism,Metabolism,Amino acid metabolism
+360,map00360,Phenylalanine metabolism,Metabolism,Amino acid metabolism
+380,map00380,Tryptophan metabolism,Metabolism,Amino acid metabolism
+400,map00400,Phenylalanine tyrosine and tryptophan biosynthesis,Metabolism,Amino acid metabolism
+510,map00510,N-Glycan biosynthesis,Metabolism,Glycan biosynthesis and metabolism
+520,map00520,Amino sugar and nucleotide sugar metabolism,Metabolism,Glycan biosynthesis and metabolism
+530,map00530,Aminosugars metabolism,Metabolism,Glycan biosynthesis and metabolism
+561,map00561,Glycerolipid metabolism,Metabolism,Lipid metabolism
+564,map00564,Glycerophospholipid metabolism,Metabolism,Lipid metabolism
+600,map00600,Sphingolipid metabolism,Metabolism,Lipid metabolism
+620,map00620,Pyruvate metabolism,Metabolism,Carbohydrate metabolism
+630,map00630,Glyoxylate and dicarboxylate metabolism,Metabolism,Carbohydrate metabolism
+640,map00640,Propanoate metabolism,Metabolism,Carbohydrate metabolism
+650,map00650,Butanoate metabolism,Metabolism,Carbohydrate metabolism
+680,map00680,Methane metabolism,Metabolism,Energy metabolism
+710,map00710,Carbon fixation by Calvin cycle,Metabolism,Energy metabolism
+860,map00860,Porphyrin and chlorophyll metabolism,Metabolism,Metabolism of cofactors and vitamins
+900,map00900,Terpenoid backbone biosynthesis,Metabolism,Metabolism of cofactors and vitamins
+970,map00970,Aminoacyl-tRNA biosynthesis,Genetic Information Processing,Translation
+30,map00030,Pentose phosphate pathway,Metabolism,Carbohydrate metabolism
+40,map00040,Pentose and glucuronate interconversions,Metabolism,Carbohydrate metabolism
+51,map00051,Fructose and mannose metabolism,Metabolism,Carbohydrate metabolism
+52,map00052,Galactose metabolism,Metabolism,Carbohydrate metabolism
+53,map00053,Ascorbate and aldarate metabolism,Metabolism,Carbohydrate metabolism
+100,map00100,Steroid biosynthesis,Metabolism,Lipid metabolism
+190,map00190,Oxidative phosphorylation,Metabolism,Energy metabolism
+195,map00195,Photosynthesis,Metabolism,Energy metabolism
+410,map00410,beta-Alanine metabolism,Metabolism,Metabolism of other amino acids
+450,map00450,Selenocompound metabolism,Metabolism,Metabolism of other amino acids
+470,map00470,D-Amino acid metabolism,Metabolism,Metabolism of other amino acids
+4976,map04976,Bile secretion,Organismal Systems,Development and regeneration
+5205,map05205,Proteoglycans in cancer,Human Diseases,Development and regeneration
+4151,map04151,PI3K-Akt signaling pathway,Cellular Processes,Development and regeneration
+4068,map04068,FoxO signaling pathway,Cellular Processes,Development and regeneration

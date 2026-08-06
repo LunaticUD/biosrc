@@ -45,7 +45,6 @@ from scipy.stats import norm
 import statsmodels.api as sm
 from statsmodels.stats.multitest import multipletests
 
-
 # ============================================================
 # User settings
 # ============================================================
