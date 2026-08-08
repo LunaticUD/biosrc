@@ -1,0 +1,18 @@
+// Settings in here override those in "LSP-basedpyright/LSP-basedpyright.sublime-settings"
+
+{
+    "settings": {
+        // python路径
+        "python.pythonPath": "E:\\Miniforge3\\envs\\ori\\python.exe",
+        // python虚拟环境
+        "python.venvPath": "E:\\Miniforge3\\envs",
+        // 自动导入补全
+        "basedpyright.analysis.autoImportCompletions": true,
+        // 自动选择路径
+        "basedpyright.analysis.autoSearchPaths": true,
+        // 自动寻找源码路径
+        "basedpyright.analysis.useLibraryCodeForTypes": true,
+        // 只诊断打开的文件
+        "basedpyright.analysis.diagnosticMode": "openFilesOnly"
+    }
+}

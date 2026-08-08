@@ -35,9 +35,6 @@ import numpy as np
 import pandas as pd
 from scipy.spatial.distance import pdist, squareform
 from scipy.stats import chi2, gaussian_kde
-import os 
-
-
 
 # ============================================================
 # User settings
@@ -69,7 +66,6 @@ mpl.rcParams.update({
     "legend.fontsize": 9,
     "axes.unicode_minus": False,
 })
-
 
 # ============================================================
 # Data loading and validation

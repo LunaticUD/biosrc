@@ -1,0 +1,17 @@
+// Settings in here override those in "LSP-R/LSP-R.sublime-settings"
+// install.packages("languageserver")安装languageserver
+
+{
+    // 用哪个 R、带什么参数启动
+    "command": [
+        "E:\\R\\R-4.5.3\\bin\\R.exe",
+        "--vanilla",
+        "--slave",
+        "-e",
+        "languageserver::run()"
+    ],
+    // 环境语言
+    "env": {
+        "LANG": "en_US.UTF-8"
+    }
+}
