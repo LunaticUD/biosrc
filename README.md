@@ -11,6 +11,13 @@
 9.  物种组成分组聚类热图
 10. 物种组成气泡图
 11. 物种韦恩图
+12. [宏基因组去冗余](./宏基因组/宏基因组组装流程.md)
+	1) FastQC --- 质控
+		fastp、Fastqc+trimmomatic、kneaddata
+	2) MAG --- 宏基因组组装
+		MEGAHIT、metaSPAdes
+	3) Purge_dups --- 宏基因组去冗余
+		CD-HIT、MMseqs2、UCLUST、VSEARCH、dRep、评估、可视化、基因目录
 ## [代谢组](./代谢组/代谢组流程.md)
 ### Step 1：差异代谢物筛选（VIP + FC + P）
 1. 计算 Fold Change & P 值
