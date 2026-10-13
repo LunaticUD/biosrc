@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Gene-metabolite correlation clustered heatmap with statistical significance.
 
@@ -29,6 +28,8 @@ Stars shown INSIDE heatmap cells:
 import matplotlib
 matplotlib.use("Agg")
 
+from pathlib import Path
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -41,10 +42,14 @@ from scipy.stats import pearsonr, spearmanr
 # 0. Settings
 # ============================================================
 
-GENE_FILE = r"./gene_expression.xlsx"
+# Resolve data files relative to this script, so the script works
+# regardless of the directory it is launched from.
+BASE_DIR = Path(__file__).resolve().parent
+
+GENE_FILE = BASE_DIR / "gene_expression.xlsx"
 GENE_SHEET = "Expression"
 
-METABOLITE_FILE = r"./metabolite_abundance.xlsx"
+METABOLITE_FILE = BASE_DIR / "metabolite_abundance.xlsx"
 METABOLITE_SHEET = "Metabolites"
 
 # "pearson" = Pearson correlation
@@ -504,7 +509,9 @@ for spine in ax_row_dendrogram.spines.values():
 # Mask undefined correlations so they appear white.
 R_masked = np.ma.masked_invalid(R_ordered)
 
-cmap = plt.get_cmap("RdBu_r").copy()
+# Diverging, colorblind-friendly colormap:
+# purple (negative) -> white (0) -> orange (positive).
+cmap = plt.get_cmap("PuOr").copy()
 cmap.set_bad("white")
 
 mesh = ax_heatmap.pcolormesh(
